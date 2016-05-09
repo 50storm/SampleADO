@@ -1,0 +1,12 @@
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Debug\ADOsample.exe.config
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Debug\ADOsample.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Debug\ADOsample.pdb
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Debug\ADOsample.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.Form1.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.Resources.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.vbproj.GenerateResource.Cache
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.pdb
+c:\users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.Form2.resources
+C:\Users\higarashi\documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Debug\ADOsample.FormUpd.resources

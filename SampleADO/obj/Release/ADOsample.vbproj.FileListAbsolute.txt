@@ -1,0 +1,12 @@
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Release\ADOsample.exe.config
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Release\ADOsample.exe
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Release\ADOsample.pdb
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\bin\Release\ADOsample.xml
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.vbprojResolveAssemblyReference.cache
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.Form1.resources
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.Form2.resources
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.Resources.resources
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.vbproj.GenerateResource.Cache
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.exe
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.xml
+C:\Users\higarashi\Documents\visual studio 2015\Projects\ADOsample\ADOsample\obj\Release\ADOsample.pdb
